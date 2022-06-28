@@ -529,7 +529,6 @@ a {
 .menu-item {
   width: 50%;
   padding: 20px 15px;
-  display: flex;
   align-items: center;
   justify-content: space-between;
   position: relative;
@@ -550,7 +549,6 @@ a {
 }
 
 .menu-item .menu-item-title {
-  display: flex;
   align-items: center;
   max-width: calc(100% - 80px);
 }
