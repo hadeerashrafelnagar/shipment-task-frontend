@@ -32,7 +32,76 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.card .card-header {
+  background-color: #007bff;
+}
+
+.card .card-header-title {
+  color: white;
+}
+
+.card {
+  padding: 2.5em;
+  background-color: transparent !important;
+}
+
+
+.data {
+  margin-top: 3.5em !important;
+  padding-top: 3.5em !important;
+}
+
+.button.is-link {
+  background-color: #eaa023 !important;
+}
+
+.button.is-link.is-light {
+  background-color: #e6e9f7 !important;
+  color: #eaa023 !important;
+
+}
+
+p, .label {
+  color: white !important;
+}
+
+.swal2-confirm {
+  background-color: #eaa023 !important;
+}
+
+.swal2-confirm {
+  border-color: #eaa023 !important;
+}
+
+.team .team-item {
+  margin-bottom: 25.5em;
+}
+
+.card {
+  color: #eaa023 !important;
+}
+
+.container .marg {
+  margin-bottom: 11.5em !important;
+}
+
+.bag {
+  background-image: url("./images/photo-1607227063002-677dc5fdf96f.jpeg");
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.ma {
+  margin-bottom: 9.5em;
 }
